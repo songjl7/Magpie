@@ -1,0 +1,2 @@
+1. Find an example of when this structure does not work well. How can you improve it?
+* If the user types "I want you," the chatbot returns "Would you really be happy if you had you?" which is not really the desired output. Switching the order of how the chatbot checks the responses could help.
